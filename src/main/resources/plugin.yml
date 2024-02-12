@@ -1,0 +1,10 @@
+name: HorizonTeamAura
+version: '1.0'
+author: hustender
+main: de.hustender.teamaura.TeamAura
+api-version: '1.16'
+load: STARTUP
+commands:
+  teamaura:
+
+softdepend: [PlaceholderAPI]
